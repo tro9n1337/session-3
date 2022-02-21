@@ -1,0 +1,63 @@
+.all{
+height: 100%;
+    width: 100%;
+}
+.verh{
+    display: flex;
+    width: 100%;
+    height: 80px;
+    border: 1px solid black;
+    margin: 0 auto;
+
+}
+
+
+
+.r11 {
+   display:  inline-block;
+    width: 9%;
+   
+margin: 0 auto;
+    
+}
+.white{
+     display: flex;
+    width: 91%;
+}
+.corte{
+    display: flex;
+    width: 60%;
+     flex-wrap:wrap;
+    
+     flex-direction: row ;
+     margin: 0 auto;
+}
+.rr{
+       text-align: center;
+    font-size: 13pt;
+    font-family:Lucida Console;
+}
+.verh2{
+    display:  inline-block;
+    width: 100%;
+    height: 80px;
+    border: 1px solid black;
+    margin: 0 auto;
+
+}
+.logo{
+    
+   display:  inline-block;
+    width: 20%;
+    height: 80px;
+    padding-left: 0px;
+        border: 1px solid black;
+    
+}
+.slog{
+     display:  inline-block;
+    width: 30%;
+    height: 80px;
+    
+        border: 1px solid black;
+}
